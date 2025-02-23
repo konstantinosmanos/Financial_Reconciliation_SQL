@@ -31,3 +31,15 @@ The dataset includes:
 We used Python’s `pandas` and `numpy` libraries to create **randomized financial transactions**.
 
 📄 **Dataset Generation Notebook:** [`data_creation.ipynb`](sql-python/data_creation.ipynb)
+
+### 2️⃣ Where to Find the Data  
+The datasets are stored in the `datasets/` folder. Each file contains different financial transaction data:
+
+| Dataset | File | Description |
+|---------|------|-------------|
+| 📌 **Orders** | [`datasets/orders.csv`](datasets/orders.csv) | Contains customer order details (Order ID, Customer ID, Order Date, Total Amount, Country). |
+| 📌 **Payments** | [`datasets/payments.csv`](datasets/payments.csv) | Tracks payment transactions (Payment ID, Order ID, Payment Date, Payment Method). |
+| 📌 **Invoices** | [`datasets/invoices.csv`](datasets/invoices.csv) | Tracks invoices issued, including their status (Invoice ID, Order ID, Invoice Date, Status). |
+
+
+
