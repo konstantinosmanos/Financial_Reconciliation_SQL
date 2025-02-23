@@ -78,5 +78,29 @@ Below are some **key visualizations** generated from SQL query results:
 #### **Most Popular Payment Methods**  
 ![Payment Methods](images/most_popular_payment_methods.png)
 
+##  Limitations & Future Improvements  
 
+### **Limitations**  
+While this project successfully **demonstrates SQL querying and data visualization**, it has some **limitations**:  
+
+- **Simulated Data** – The dataset was randomly generated using Python, meaning it **lacks real-world business complexity**.  
+- **Limited Business Insights** – Since the data is synthetic, real business patterns (such as seasonality, customer behavior, and payment anomalies) **cannot be fully captured**.  
+- **No External Data Integration** – The project does not incorporate **real financial APIs** or external datasets, which could improve analysis.  
+
+### **Future Improvements**  
+To enhance this project further, we could:  
+
+✔️ **Use Real-World Data** – Incorporate **real financial transaction datasets** to improve accuracy.  
+✔️ **Expand the SQL Queries** – Create **more complex queries** such as fraud detection or advanced revenue forecasting.  
+✔️ **Integrate External APIs** – Connect to **payment APIs (Stripe, PayPal, etc.)** for real transaction data.  
+✔️ **Automate Data Pipelines** – Use **ETL tools (Airflow, Mage.ai)** to automate data extraction and transformation.  
+✔️ **Deploy an Interactive Dashboard** – Use **Tableau, Power BI, or Streamlit** to create an interactive UI for better insights.  
+
+---
+
+### **Conclusion**  
+This project was designed to **demonstrate SQL proficiency** in **querying financial data and creating meaningful visualizations**.  
+Even though the dataset is **simulated**, the **skills showcased**—SQL queries, joins, aggregations, and data visualizations—are **applicable to real-world financial analysis**.  
+
+📌 **Next Steps?** Consider expanding the project with real-world datasets and automation! 
 
