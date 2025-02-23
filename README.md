@@ -23,9 +23,6 @@ It focuses on **order-to-cash reconciliation**, **missing payments**, **unpaid i
 Since we did not use a real-world dataset, we **simulated** realistic financial transactions using Python.  
 The dataset includes:  
 
-✔️ **Orders Data** (`orders.csv`) → Contains order details, customers, amounts, and order dates.  
-✔️ **Payments Data** (`payments.csv`) → Includes payment transactions and methods.  
-✔️ **Invoices Data** (`invoices.csv`) → Tracks invoices issued, dates, and payment status.  
 
 ###  **1️⃣ Generating Simulated Data**
 We used Python’s `pandas` and `numpy` libraries to create **randomized financial transactions**.
