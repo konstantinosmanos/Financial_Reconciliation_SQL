@@ -57,8 +57,8 @@ Below are results of key SQL queries executed:
 
 | Query | Screenshot |
 |-------|-----------|
-| **Orders Without Payments** | ![Orders Without Payments](images/orders_without_payments.png) |
-| **Revenue by Country** | ![Revenue by Country](images/revenue_by_country.png) |
-| **Popular Payment Methods** | ![Popular Payment Methods](images/popular_payment_methods.png) |
+| **Orders Without Payments** | ![Orders Without Payments](images/Orders_without_payments_by_country.png) |
+| **Revenue by Country** | ![Revenue by Country](images/Total_revenue_by_country.png) |
+| **Popular Payment Methods** | ![Popular Payment Methods](images/most_popular_payment_methods.png) |
 
 
