@@ -104,3 +104,23 @@ Even though the dataset is **simulated**, the **skills showcased**—SQL queries
 
 📌 **Next Steps?** Consider expanding the project with real-world datasets and automation! 
 
+---
+
+## 🛠 **Technologies Used**  
+This project leverages **SQL & Python** to analyze financial transactions:  
+
+- **SQL (PostgreSQL)** – Querying and analyzing financial data  
+- **Python** – Data manipulation & visualization  
+- **Pandas** – Data processing and analysis  
+- **Matplotlib & Seaborn** – Creating financial visualizations  
+- **Jupyter Notebook** – Running interactive queries & analysis  
+
+---
+
+## 📬 **Contact & Connect**  
+📩 [Email Me](mailto:manoskonstantinos960@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/konstantinosmanos)  
+🖥 [GitHub](https://github.com/konstantinosmanos)  
+
+🚀 **Like this project? Give it a ⭐ on GitHub!**  
+
