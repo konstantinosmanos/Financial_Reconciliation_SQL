@@ -1,6 +1,6 @@
-# 📊 SQL Financial Reconciliation Project  
+# SQL Financial Reconciliation Project  
 
-## 🔹 Overview  
+##  Overview  
 This project is designed to analyze **financial transactions** using **PostgreSQL** and **Python**.  
 It focuses on **order-to-cash reconciliation**, **missing payments**, **unpaid invoices**, and **revenue trends**.  
 
@@ -11,7 +11,7 @@ It focuses on **order-to-cash reconciliation**, **missing payments**, **unpaid i
 
 ---
 
-📂 Financial_Reconciliation_SQL
+## 📂 Financial_Reconciliation_SQL
 │-- 📂 datasets          # Contains simulated CSV datasets
 │-- 📂 images            # Contains visualized charts
 │-- 📂 sql-python        # SQL queries, Python scripts & Data generation
@@ -20,7 +20,7 @@ It focuses on **order-to-cash reconciliation**, **missing payments**, **unpaid i
 │   │-- sql_project_queries.sql  # All SQL Queries
 │-- 📄 README.md         # Project documentation
 
-## 🔹 📊 How the Dataset Was Created  
+## How the Dataset Was Created  
 Since we did not use a real-world dataset, we **simulated** realistic financial transactions using Python.  
 The dataset includes:  
 
@@ -28,7 +28,7 @@ The dataset includes:
 ✔️ **Payments Data** (`payments.csv`) → Includes payment transactions and methods.  
 ✔️ **Invoices Data** (`invoices.csv`) → Tracks invoices issued, dates, and payment status.  
 
-### 🔹 **1️⃣ Generating Simulated Data**
+###  **1️⃣ Generating Simulated Data**
 We used Python’s `pandas` and `numpy` libraries to create **randomized financial transactions**.
 
 📄 **Dataset Generation Notebook:** [`data_creation.ipynb`](sql-python/data_creation.ipynb)
