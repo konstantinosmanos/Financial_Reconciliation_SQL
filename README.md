@@ -34,12 +34,12 @@ The datasets are stored in the `datasets/` folder. Each file contains different 
 
 | Dataset | File | Description |
 |---------|------|-------------|
-| 📌 **Orders** | [`datasets/orders.csv`](datasets/orders.csv) | Contains customer order details (Order ID, Customer ID, Order Date, Total Amount, Country). |
-| 📌 **Payments** | [`datasets/payments.csv`](datasets/payments.csv) | Tracks payment transactions (Payment ID, Order ID, Payment Date, Payment Method). |
-| 📌 **Invoices** | [`datasets/invoices.csv`](datasets/invoices.csv) | Tracks invoices issued, including their status (Invoice ID, Order ID, Invoice Date, Status). |
+| **Orders** | [`datasets/orders.csv`](datasets/orders.csv) | Contains customer order details (Order ID, Customer ID, Order Date, Total Amount, Country). |
+| **Payments** | [`datasets/payments.csv`](datasets/payments.csv) | Tracks payment transactions (Payment ID, Order ID, Payment Date, Payment Method). |
+| **Invoices** | [`datasets/invoices.csv`](datasets/invoices.csv) | Tracks invoices issued, including their status (Invoice ID, Order ID, Invoice Date, Status). |
 
 
-##  Key SQL Queries  
+##  📌 Key SQL Queries  
 
 Below are the main SQL queries included in this project:
 
@@ -57,10 +57,10 @@ Below are some **key visualizations** generated from SQL query results:
 
 | Visualization | Description |
 |--------------|-------------|
-| 📌 **Total Revenue by Country** | Bar chart showing top revenue sources |
-| 📌 **Orders Without Payments by Country** | Identifies missing payments |
-| 📌 **Monthly Revenue Trend** | Tracks revenue over time |
-| 📌 **Most Popular Payment Methods** | Compares payment method usage |
+|  **Total Revenue by Country** | Bar chart showing top revenue sources |
+| **Orders Without Payments by Country** | Identifies missing payments |
+|  **Monthly Revenue Trend** | Tracks revenue over time |
+| **Most Popular Payment Methods** | Compares payment method usage |
 
 📄 **View Visualizations Notebook:** [`visualizations.ipynb`](sql-python/visualizations.ipynb)
 
