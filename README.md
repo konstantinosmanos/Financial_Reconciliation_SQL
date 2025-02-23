@@ -17,7 +17,6 @@ It focuses on **order-to-cash reconciliation**, **missing payments**, **unpaid i
 │-- 📂 datasets          # Contains simulated CSV datasets
 │-- 📂 images            # Contains visualized charts
 │-- 📂 sql-python        # SQL queries & Python scripts
-│-- 📄 README.md         # Project documentation (this file)
 
 
 ## How the Dataset Was Created  
