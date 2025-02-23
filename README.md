@@ -13,11 +13,17 @@ It focuses on **order-to-cash reconciliation**, **missing payments**, **unpaid i
 
 ## 📂 Folder Structure  
 ```bash
+
 📂 Financial_Reconciliation_SQL
 │-- 📂 datasets          # Contains simulated CSV datasets
 │-- 📂 images            # Contains visualized charts
-│-- 📂 sql-python        # SQL queries & Python scripts
-│-- 📄 README.md         # Project documentation (this file)
+│-- 📂 sql-python        # SQL queries, Python scripts & Data generation
+│   │-- data_creation.ipynb   # Jupyter Notebook for dataset creation
+│   │-- visualizations.ipynb  # Jupyter Notebook for analysis
+│   │-- sql_project_queries.sql  # All SQL Queries
+│-- 📄 README.md         # Project documentation
+
+---
 
 ## How the Dataset Was Created  
 Since we did not use a real-world dataset, we **simulated** realistic financial transactions using Python.  
