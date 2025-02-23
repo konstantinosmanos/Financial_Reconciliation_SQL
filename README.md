@@ -51,14 +51,32 @@ Below are the main SQL queries included in this project:
 
 📄 **Full SQL Queries:** [`sql_project_queries.sql`](sql-python/sql_project_queries.sql)  
 
-##  Query Results  
+## Data Visualizations  
 
-Below are results of key SQL queries executed:
+Below are some **key visualizations** generated from SQL query results:
 
-| Query | Screenshot |
-|-------|-----------|
-| **Orders Without Payments** | ![Orders Without Payments](images/Orders_without_payments_by_country.png) |
-| **Revenue by Country** | ![Revenue by Country](images/Total_revenue_by_country.png) |
-| **Popular Payment Methods** | ![Popular Payment Methods](images/most_popular_payment_methods.png) |
+| Visualization | Description |
+|--------------|-------------|
+| 📌 **Total Revenue by Country** | Bar chart showing top revenue sources |
+| 📌 **Orders Without Payments by Country** | Identifies missing payments |
+| 📌 **Monthly Revenue Trend** | Tracks revenue over time |
+| 📌 **Most Popular Payment Methods** | Compares payment method usage |
+
+📄 **View Visualizations Notebook:** [`visualizations.ipynb`](sql-python/visualizations.ipynb)
+
+### Example Charts:
+
+#### **Total Revenue by Country**  
+![Total Revenue](images/Total_revenue_by_country.png)
+
+#### **Orders Without Payments**  
+![Orders Without Payments](images/Orders_without_payments_by_country.png)
+
+#### **Monthly Revenue Trend**  
+![Revenue Trend](images/Monthly_revenue_trend.png)
+
+#### **Most Popular Payment Methods**  
+![Payment Methods](images/most_popular_payment_methods.png)
+
 
 
