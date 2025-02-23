@@ -18,6 +18,7 @@ It focuses on **order-to-cash reconciliation**, **missing payments**, **unpaid i
 │-- 📂 images            # Contains visualized charts
 │-- 📂 sql-python        # SQL queries & Python scripts
 │-- 📄 README.md         # Project documentation (this file)
+```bash
 
 ## How the Dataset Was Created  
 Since we did not use a real-world dataset, we **simulated** realistic financial transactions using Python.  
