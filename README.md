@@ -39,4 +39,16 @@ The datasets are stored in the `datasets/` folder. Each file contains different 
 | 📌 **Invoices** | [`datasets/invoices.csv`](datasets/invoices.csv) | Tracks invoices issued, including their status (Invoice ID, Order ID, Invoice Date, Status). |
 
 
+## 🔹 Key SQL Queries  
+
+Below are the main SQL queries included in this project:
+
+1️⃣ **Find Orders Without Payments** – Identifies missing payments  
+2️⃣ **Detect Partially Paid Orders** – Flags underpaid transactions  
+3️⃣ **Analyze Revenue by Country** – Finds top revenue sources  
+4️⃣ **Track Monthly Revenue Trends** – Shows revenue growth  
+5️⃣ **Identify Most Popular Payment Methods**  
+
+📄 **Full SQL Queries:** [`sql_project_queries.sql`](sql-python/sql_project_queries.sql)  
+
 
